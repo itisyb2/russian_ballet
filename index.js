@@ -53,7 +53,7 @@ function getEasterDate(year) {
 window.onload = async () => {
 const currentYear = moment().year();
 
-const show_date = `${currentYear}-06-28`2
+const show_date = `${currentYear}-06-28`
  
 
   const years = [2024, 2025, 2026];
